@@ -1,133 +1,25 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Punit Yadav</h1>
+<h3 align="center">I’m a Full-Stack Developer with a passion for building scalable, user-centric web applications. I hold a Bachelor’s degree in Engineering from MNIT Jaipur, and I’m currently working as a Software Developer, where I get to solve real-world problems through code every day. Previously, I interned at Decimal Point Analytics, where I explored the intersection of data and business.</h3>
 
-<h1 align="center">Hi there👋, I'm Vansh Chaurasiya</h1>
-<h3 align="center">A budding engineer from India</h3>
-<h4 align="center">I'm currently a Front End Intern @GoComet, Bengaluru</h4>
-<h4 align="center">Pursuing B.Tech from Lovely Professional University, Phagwara, Punjab</h4>
-<p align="center">
-	<a href="https://vanshchaurasiya.me">Portfolio</a> - 
-	<a href="https://linkedin.com/in/vanshchaurasiya24">LinkedIn</a> - 
-	<a href="mailto:contact@vanshchaurasiya.me">Email</a> - 
-	<a href="https://x.com/VanshChaurasiy4">X</a> -
-	<a href="https://medium.com/@vanshchaurasiya1557">Medium</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madmax273&label=Profile%20views&color=0e75b6&style=flat" alt="madmax273" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax273" alt="madmax273" /></a> </p>
+
+- 🔭 I’m currently working on **PDFier**
+
+- 📫 How to reach me **punitay273@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/angryfussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/angryfussa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/punit-yadav-6012a4232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punit-yadav-6012a4232/" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
-  
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  <details>
-  <summary><strong>Trophies</strong></summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-codes&theme=discord" alt="vansh-codes" /></a> </p>
-  </details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmax273&show_icons=true&locale=en&layout=compact" alt="madmax273" /></p>
 
-## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,py,java" /> 
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,md,vscode,windows,linux" />
-  <br />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax273&show_icons=true&locale=en" alt="madmax273" /></p>
 
-<!-- ### Learning:
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,php" />
-</div> -->
-
-<br />
-
- <h2 align='center'><i>🥇 Open Source Project open for contributions🚀</i></h2>
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/vansh-codes/Gityzer"><b>🚀Gityzer</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/vansh-codes/Gityzer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/vansh-codes/Gityzer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/vansh-codes/Gityzer?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vansh-codes/Gityzer?style=flat-square"/></td>
-      </tr>
-<!--       <tr>
-	<td><a href="https://github.com/vansh-codes/ChaosWeb"><b>😵‍💫ChaosWeb</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/vansh-codes/ChaosWeb?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/vansh-codes/ChaosWeb?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/vansh-codes/ChaosWeb?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vansh-codes/ChaosWeb?style=flat-square"/></td>
-      </tr> -->
-    </tbody>
-  </table>
-</div>
-<br>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vansh-codes&theme=dark&hide_border=true) &nbsp;&nbsp;
-
-<details>
-<summary><strong>✍️ Random Dev Quote</strong></summary>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</details>
-
-<!-- <details>
-  <summary><strong>Top Contributed Repo🔝</strong></summary>
-  <img src="https://github-contributor-stats.vercel.app/api?username=vansh-codes&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</details> -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</br>
-<div align="center">
-
-<!--
-## Participant in
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><a href="https://gssoc.girlscript.tech"><img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" alt="GSSOC-2024"></a></td>
-        <td><a href="https://hacktoberfest.com/"><img src="https://github.com/user-attachments/assets/894ae854-30f2-4a77-9c09-f85734c02528" alt="hacktoberfest-2024"></a></td>
-      </tr>
-    </thead>
-    <tbody align="center">
-      <tr border: none;>
-        <td><b>GSSOC'24</b></td>
-        <td><b>hacktoberfest'24</b></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div align="center">
-
-## GSSOC'24 Badges
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
-  </tr>
-</table>
-
--->
-
-## Hacktoberfest'24 Badges
-
-[![An image of @vanshcodes's Holopin badge](https://holopin.me/vanshcodes)](https://holopin.io/@vanshcodes)
-
-<p align="right"><a href="#top">Back to TOP 🔝 </a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madmax273&" alt="madmax273" /></p>
