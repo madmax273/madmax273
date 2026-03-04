@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax273" alt="madmax273" /></a> </p>
 
-- 🔭 I’m currently working on **PDFier**
+- 🔭 I’m currently working on **OakenShield Web Extension**
+
+- 🔭 I’m currently working on **CreatorIntel**
 
 - 📫 How to reach me **punitay273@gmail.com**
 
