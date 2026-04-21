@@ -1,31 +1,149 @@
 <h1 align="center">Hi 👋, I'm Punit Yadav</h1>
-<h3 align="center">I’m a Full-Stack Developer with a passion for building scalable, user-centric web applications. I hold a Bachelor’s degree in Engineering from MNIT Jaipur, and I’m currently working as a Software Developer, where I get to solve real-world problems through code every day. Previously, I interned at Decimal Point Analytics, where I explored the intersection of data and business.</h3>
+<h3 align="center">🚀 AI Engineer | LLM Apps • AI Agents • Backend & Infra Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madmax273&label=Profile%20views&color=0e75b6&style=flat" alt="madmax273" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax273" alt="madmax273" /></a> </p>
-
-- 🔭 I’m currently working on **OakenShield Web Extension**
-
-- 🔭 I’m currently working on **CreatorIntel**
-
-- 📫 How to reach me **punitay273@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/angryfussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/angryfussa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/punit-yadav-6012a4232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punit-yadav-6012a4232/" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/NegotiationTasty8730/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/reddit.svg" alt="reddit" height="30" width="40" />
-</a>
-
+<p align="center">
+  <a href="mailto:punitay273@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/punit-yadav-6012a4232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/angryfussa">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmax273&show_icons=true&locale=en&layout=compact" alt="madmax273" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax273&show_icons=true&locale=en" alt="madmax273" /></p>
+- 💡 AI-focused Full-Stack Developer transitioning into **AI Systems Engineering**
+- 🤖 Building **LLM applications, AI Agents, and RAG pipelines**
+- ⚡ Strong background in **backend + infrastructure + scalable systems**
+- 🧩 Exploring **LangChain, LangGraph, MCP, multi-agent workflows**
+- 📈 Interested in **AI + Finance + real-world problem solving**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madmax273&" alt="madmax273" /></p>
+---
+
+## 💼 Experience
+
+### 🧠 Freelance AI Annotator (RLHF)
+- Working on **Reinforcement Learning from Human Feedback (RLHF)** pipelines
+- Training and improving **LLM outputs through human-in-the-loop evaluation**
+- Handling **data annotation for text, images, and model responses**
+- Contributing to **AI model alignment and quality improvement**
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 AI Agents (LangGraph, CrewAI, AutoGen)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🏗️ Scalable backend systems
+- ⚡ Production-ready AI applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / LLM
+- Python, Pandas
+- LangChain, LangGraph, CrewAI
+- OpenAI / Gemini APIs
+- RAG Architectures
+- Vector DBs: FAISS, Pinecone
+
+---
+
+### ⚙️ Backend (Core Strength)
+
+**Frameworks & APIs**
+- FastAPI, Django
+- Node.js, Express
+- REST APIs, GraphQL
+
+**Authentication & Security**
+- JWT, OAuth2
+- Microsoft OAuth (OIDC), Google OAuth
+- RBAC (Role-Based Access Control)
+
+**System Design & Performance**
+- Scalable architecture
+- Concurrency, Multiprocessing
+
+**Databases**
+- MongoDB
+- PostgreSQL, MySQL
+- SQLite
+
+**Caching**
+- Redis
+
+---
+
+### ☁️ DevOps / Infrastructure
+
+- Docker
+- Kubernetes (learning)
+- Terraform, Ansible
+- AWS (basics)
+- Nginx
+- Linux
+- Networking fundamentals
+- Bash scripting
+- CI/CD basics
+
+---
+
+### 🌐 Frontend
+- Next.js, React
+- Tailwind CSS
+- Zustand(State Management)
+
+---
+
+## 🔥 Featured Projects
+
+### 🛡️ OakenShield (AI Security Extension)
+- Detects malicious content using AI
+- Real-time browser-based protection
+
+### 📊 CreatorIntel
+- AI-powered insights for creators
+- Combines analytics + LLM reasoning
+
+👉 More AI projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madmax273&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madmax273&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madmax273&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 What I'm Learning
+
+- Advanced AI agents (multi-agent systems)
+- Production AI architecture
+- Kubernetes & distributed systems
+- Memory + tool-using LLMs
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/punit-yadav-6012a4232/
+- 🐦 Twitter: https://x.com/angryfussa
+- 📧 Email: punitay273@gmail.com
+
+---
+
+⭐️ Open to collaborations in **AI, backend systems, and infrastructure**
